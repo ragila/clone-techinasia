@@ -1,7 +1,7 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
 
-import Berita from './Containers/Berita/Berita';
+import Berita from "./Containers/Berita/Berita";
 
 class App extends Component {
   render() {
